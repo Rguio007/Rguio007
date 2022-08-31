@@ -7,7 +7,7 @@ I am a software developer with a taste for constant learning and in search of im
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, MongoDB, Node.js.
+Javascript,React, HTML, CSS, MongoDB, Node.js.
 
 Also interested in learn other technologies as Go or Python.
 
@@ -19,7 +19,7 @@ Also interested in learn other technologies as Go or Python.
 
 🤔 I'm looking for help to gain seniority.
 
-💬 Ask me about crypto, f1, gym, finances or tech!
+💬 Ask me about crypto, tech, gym, F1 or finances!
 
 📫 You can reach me through my phone,email or linkedin.
 
