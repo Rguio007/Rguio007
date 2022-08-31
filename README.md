@@ -19,7 +19,7 @@ Also interested in learn other technologies as Go or Python.
 
 🤔 I'm looking for help to gain seniority.
 
-💬 Ask me about crypto, tech, gym, F1 or finances!
+💬 Ask me about crypto, tech, F1 or finances!
 
 📫 You can reach me through my phone,email or linkedin.
 
