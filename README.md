@@ -13,7 +13,7 @@ Also interested in learn other technologies as Go or Python.
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently studying full time software engineering and working as a freelancer.
+👩‍💻 I'm currently studying full time software engineering.
 
 👯‍♀️ I'm looking to work in the tech industrie and face new challenges.
 
