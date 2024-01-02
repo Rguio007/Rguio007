@@ -7,13 +7,12 @@ I am a software developer with a taste for constant learning and in search of im
 
 
 ## 🛠 Skills
-Javascript,React, HTML, CSS, MongoDB, Node.js.
+Javascript,React, HTML, CSS, SQL, dotNet, prompt engineering.
 
 Also interested in learn other technologies as Go or Python.
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently studying full time software engineering.
 
 👯‍♀️ I'm looking to work in the tech industrie and face new challenges.
 
