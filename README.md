@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a software developer with a taste for constant learning and in search of improving my skills trough practice.
+I am a software developer with a taste for constant learning
 
 
 ## 🛠 Skills
