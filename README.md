@@ -14,9 +14,7 @@ Also interested in learn other technologies as Go or Python.
 
 ## Other Common Github Profile Sections
 
-👯‍♀️ I'm looking to work in the tech industrie and face new challenges.
-
-🤔 I'm looking for help to gain seniority.
+👯‍♀️ I'm looking to face new challenges.
 
 💬 Ask me about crypto, tech, F1 or finances!
 
