@@ -16,7 +16,7 @@ Also interested in learn other technologies as Go or Python.
 
 👯‍♀️ I'm looking to face new challenges.
 
-💬 Ask me about crypto, tech, F1 or finances!
+💬 Ask me about crypto, tech or F1!
 
 📫 You can reach me through my phone,email or linkedin.
 
